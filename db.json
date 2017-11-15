@@ -11,4 +11,11 @@
   "profile": {
     "name": "typicode"
   }
+  "products": [
+    { "id" : 1, "name": "Yakult", "barcode": "00001", "stock": 100, "prize": 10000},
+    { "id" : 2, "name": "Ultra Milk", "barcode": "00002", "stock": 150, "prize": 20000},
+    { "id" : 3, "name": "Bear Brand", "barcode": "00003", "stock": 50, "prize": 30000},
+    { "id" : 4, "name": "Minute Maid", "barcode": "00004", "stock": 200, "prize": 40000},
+    { "id" : 5, "name": "Indomilk", "barcode": "00005", "stock": 300, "prize": 50000}
+  ]
 }
